@@ -6,7 +6,7 @@ pygame.init()
 #WINDOW VARIABLES
 WIDTH, HEIGHT = 800, 800
 WINDOW = pygame.display.set_mode ((WIDTH, HEIGHT))
-pygame.display.set_caption("WORDLE!")
+pygame.display.set_caption("GABE MADE ME DO THIS!")
 FPS = 60
 
 #COLOR
